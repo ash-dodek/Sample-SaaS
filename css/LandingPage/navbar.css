@@ -1,0 +1,33 @@
+.navbar{
+    height: fit-content;
+    color: #161C2D;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: space-between;
+}
+.nav-item{
+    margin: 15px;
+}
+.nav-content{
+    display: flex;
+}
+.logo-text{
+    font-size: 24px;
+    font-weight: bold;
+}
+#gs-nav{
+    width: 158px;
+    height: 45px;
+    background-color: #473BF0;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Gilroy';
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+}

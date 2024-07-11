@@ -1,0 +1,45 @@
+@import url('css/LandingPage/navbar.css');
+@import url('css/LandingPage/main1.css');
+@import url('css/LandingPage/main2.css');
+@import url('css/LandingPage/main3.css');
+@import url('css/LandingPage/main4.css');
+@import url('css/LandingPage/main5.css');
+@import url('css/LandingPage/footer.css');
+/* @import url('css/LandingPage/responsive.css'); */
+*{
+    margin: 0;padding: 0;
+    font-family: 'Gilroy';
+    box-sizing: border-box;
+}
+body{
+    background-color: #FCFDFE;
+    height: fit-content;
+}
+.material-symbols-outlined {
+    user-select: none;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+}
+img{
+    user-select: none;
+    -webkit-user-drag: none;
+}
+.light{
+    opacity: 70%;
+}
+.lb{
+    border: 1px solid #f2f2f2;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    color: initial;
+}
+button:hover{
+    cursor: pointer;
+}

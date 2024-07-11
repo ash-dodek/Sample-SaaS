@@ -1,0 +1,38 @@
+.final{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    column-gap: 100px;
+    width: 100%;
+}
+.final-texts{
+    width: 503px;
+}
+.f-desc{
+    font-size: 19px;
+    line-height: 25px;
+    margin-top: 20px;
+}
+.final-buttons{
+    display: flex;
+    column-gap: 40px;
+}
+.classic{
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 17px;
+}
+.fb1{
+    color: #473BF0;
+}
+.fb2{
+    background-color: #473BF0;
+    color: white;
+}

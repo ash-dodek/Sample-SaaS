@@ -1,0 +1,39 @@
+.footer{
+    display: flex;
+    column-gap: 100px;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+.links{
+    display: flex;
+    column-gap: 70px;
+}
+.pr-title{
+    font-size: 28px;
+    font-weight: 800;
+}
+.product-details{
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 35px;
+}
+.social-handles{
+    display: flex;
+    column-gap: 20px;
+}
+.social-handles img{
+    height: 18px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    margin: 15px;
+    margin-left: 0;
+    font-size: 17px;
+}
+.tab{
+    padding: 10px;
+}

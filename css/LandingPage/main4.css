@@ -1,0 +1,32 @@
+.main-content4{
+    background-color: #F4F7FA;
+    padding: 100px;
+    width: 100%;
+}
+.testimonals{
+    display: flex;
+    justify-content: center;
+    column-gap: 120px;
+}
+.testimonal{
+    width: 400px;
+    display: flex;
+    flex-flow: column;
+    row-gap: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.t-title{
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.t-desc{
+    font-size: 19px;
+}
+.v-line{
+    align-self: center;
+    height: 150px;
+    border: 1px solid #E7E9ED;
+}

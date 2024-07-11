@@ -1,0 +1,41 @@
+.main-content2{
+    padding: 80px;
+    background-color: #F4F7FA;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.content-text{
+    width: 370px;
+}
+.p2-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.p2-desc{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.content-div{
+    display: flex;
+    align-items: center;
+}
+.content-img{
+    display: flex;
+    margin-left: 100px;
+}
+.cw{
+    width: 15vw;
+
+}
+.top-img{
+    position: absolute;
+}
+#top-img{
+    margin-left: 75px;
+    margin-top: 50px;
+}
+.img-div-2{
+    margin-left: 30px;
+}
