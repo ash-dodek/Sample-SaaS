@@ -8,6 +8,8 @@
     padding-left: 20px;
     padding-right: 20px;
     justify-content: space-between;
+    font-family: 'Gilroy';
+    width: 100%;
 }
 .nav-item{
     margin: 15px;
@@ -30,4 +32,14 @@
     color: white;
     padding: 10px;
     font-size: 16px;
+}
+@media screen and (max-width:700px) {
+    .nav-content{
+        display: none;
+    }
+}
+@media screen and (max-width:370px) {
+    .logo-text{
+        font-size: 19px;
+    }
 }
